@@ -7,4 +7,8 @@ Analytical questions answered:
 
 2. Which are the top categories of apps that have an average rating greater than 4.2？ Compare the average ratings between paid and free apps within those top categories.
 
-3. Which developers have the highest number of app installations or top-rated apps during 2020 ?
+3. Which developers have the highest number of app installations or top-rated apps during 2020?
+
+
+   <img width="647" alt="image" src="https://github.com/user-attachments/assets/415bc375-eccf-46f7-9170-7ffeb5df217b" />
+
