@@ -1,6 +1,8 @@
 # Google-Play-store-Analysis-using-SQL.-AWS-PostgreSQL-
 
-our group focus on the various applications in google play store. The dataset provides details about the App names, category of Apps, App rating, installations, price and many related information about the Apps. The size of this dataset is 676.46 MB, and was collected in the month of June 2021. The dataset has 24 variables and 2.3 Million+ instances. Each instance represents an Application in the google play store. 
+our group focus on the various applications in google play store. The dataset provides details about the App names, category of Apps, App rating, installations, price and many related information about the Apps. The size of this dataset is 676.46 MB, and was collected in the month of June 2021. 
+
+The dataset has 24 variables and 2.3 Million+ instances. Each instance represents an Application in the google play store. 
 
 Analytical questions answered:
 1. To analyze the distribution of paid apps across different categories and  investigate whether the highest purchase volume corresponds to the highest rating.
